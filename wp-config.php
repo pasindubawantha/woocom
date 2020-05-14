@@ -86,7 +86,7 @@ define( 'SCRIPT_DEBUG', true );
 
 define( 'FTP_USER', 'woocom' );
 define( 'FTP_PASS', 'pass' );
-define( 'FTP_HOST', '' );
+define( 'FTP_HOST', '35.239.61.178:21' );
 
 /* That's all, stop editing! Happy publishing. */
 
