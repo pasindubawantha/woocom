@@ -15,6 +15,8 @@
  */
 define( 'WPINC', 'wp-includes' );
 define( 'WP_CONTENT_DIR', '/wp-content' );
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
 /**
  * Version information for the current WordPress release.
  *

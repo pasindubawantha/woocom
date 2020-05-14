@@ -15,3 +15,6 @@ wordpress
 allow_writeable_chroot=YES
 user_sub_token=woocom
 local_root=/home/sandhooraroot/www
+
+
+define( 'WP_CONTENT_DIR', '/wp-content' );
