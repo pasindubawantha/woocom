@@ -14,7 +14,7 @@
  * @since 1.0.0
  */
 define( 'WPINC', 'wp-includes' );
-
+define( 'WP_CONTENT_DIR', '/wp-content' );
 /**
  * Version information for the current WordPress release.
  *
